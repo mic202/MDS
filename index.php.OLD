@@ -1,0 +1,9 @@
+<?php
+include 'themes/SBAdmin2/pages/header.php';
+?>
+
+<div id="page-wrapper">
+	<?php include_once 'main.php';?>
+</div>
+<?php
+include 'themes/SBAdmin2/pages/footer.php';
